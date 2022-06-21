@@ -191,7 +191,7 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Authors
 
-* **Brennan D Baraban** - [@Odongoweri](https://github.com/Odongoweri)
+* **Margaret Odongoweri** - [@Odongoweri](https://github.com/Odongoweri)
 
 
 
